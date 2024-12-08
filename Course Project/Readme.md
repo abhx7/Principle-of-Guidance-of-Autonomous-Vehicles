@@ -11,6 +11,6 @@ All aspects of the project were equally shared and collaboratively completed.
 
 ## Team Members  
 - Abhigyan Roy
-- Abel Viji George
-- Shreeya Padte  
+- Abel Viji George [@Flerovium-114](https://github.com/Flerovium-114)
+- Shreeya Padte  [@shreeya728](https://github.com/shreeya728)
 
