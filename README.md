@@ -1,7 +1,7 @@
 # Principle of Guidance of Autonomous Vehicles  
 
 ## Overview  
-This repository contains the materials for the **AS5570 IITM Aerospace Engineering Elective Course**, focused on the principles of autonomous guidance for aerial vehicles. It covers theoretical concepts, simulations, assignments, and references related to guidance laws and their applications.
+This repository contains the materials for the **AS5570 IITM Aerospace Engineering Elective Course**, focused on the principles of autonomous guidance for aerial vehicles. It covers theoretical concepts, simulations, assignments, and references related to guidance laws and their applications. A student should be able to formulate and solve interceptor-target engagement problems using classical and modern guidance laws or algorithms.
 
 ## Course Contents  
 
